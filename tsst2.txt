@@ -1,3 +1,6 @@
+zmiana
+
+
 kolejna linia teksut
 na pull
   git pull
